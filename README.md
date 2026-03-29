@@ -1,4 +1,4 @@
-\# Varish Nuthi — Quant Portfolio
+# Varish Nuthi — Quant Portfolio
 
 
 
@@ -10,17 +10,17 @@ I'm a first-year math student at UT Dallas pursuing quant trading at top firms (
 
 
 
-\## 🔢 Projects
+## 🔢 Projects
 
-\- \*\*\[ProjectV](github.com/varishnuthi/ProjectV)\*\* — ML-based quant trading engine with regime detection, Kelly criterion, and risk management. Backtested 26.4% CAGR, 1.59 Sharpe.
+- **[ProjectV](github.com/varishnuthi/ProjectV)** — ML-based quant trading engine with regime detection, Kelly criterion, and risk management. Backtested 26.4% CAGR, 1.59 Sharpe.
 
-\- \*\*\[ProjectA](github.com/varishnuthi/ProjectA)\*\* — Short-term automated futures daytrading system with strict drawdown constraints.
+- **[ProjectA](github.com/varishnuthi/ProjectA)** — Short-term automated futures daytrading system with strict drawdown constraints.
 
-\- \*\*\[00RISK](github.com/varishnuthi/00RISK)\*\* — Retail quant risk analytics platform democratizing institutional tools for individual investors.
+- **[00RISK](github.com/varishnuthi/00RISK)** — Retail quant risk analytics platform democratizing institutional tools for individual investors.
 
 
 
-\## 📚 MIT OCW Self-Study
+## 📚 MIT OCW Self-Study
 
 Completing MIT's core Math/CS curriculum independently — lectures, recitations, problem sets, and exams:
 
@@ -48,29 +48,29 @@ Completing MIT's core Math/CS curriculum independently — lectures, recitations
 
 Each course folder contains:
 
-\- 📝 Handwritten notes and problem sets
+- 📝 Handwritten notes and problem sets
 
-\- 📄 Exam attempts with self-grading
+- 📄 Exam attempts with self-grading
 
-\- 💻 Applied implementations connecting math to trading systems
-
-
-
-\## 🛠️ Technical Skills
-
-\*\*Languages:\*\* Python, Java, C++, SQL  
-
-\*\*Libraries:\*\* NumPy, Pandas, Scikit-learn, TensorFlow  
-
-\*\*Tools:\*\* Git, Excel, TradingView  
-
-\*\*Self-Study:\*\* MIT OCW 18.02, 18.06, 6.006, 6.041, 6.1200J, 18.100A
+- 💻 Applied implementations connecting math to trading systems
 
 
 
-\## 📬 Connect
+## 🛠️ Technical Skills
 
-\- Email: varishnuthi07@gmail.com
+**Languages:** Python, Java, C++, SQL  
 
-\- LinkedIn: linkedin.com/in/varishnuthi
+**Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow  
+
+**Tools:** Git, Excel, TradingView  
+
+**Self-Study:** MIT OCW 18.02, 18.06, 6.006, 6.041, 6.1200J, 18.100A
+
+
+
+## 📬 Connect
+
+- Email: varishnuthi07@gmail.com
+
+- LinkedIn: linkedin.com/in/varishnuthi
 
