@@ -2,11 +2,11 @@
 
 
 
-Math @ UTD | Quant Trader | Builder
+Incoming Math + CS @ UTD | Quant Trader
 
 
 
-I'm a first-year math student at UT Dallas pursuing quant trading at top firms (Jane Street, Citadel, HRT). This repository documents my independent study of MIT's core Math/CS curriculum, with every concept applied directly to my trading systems.
+I'm an incoming first-year math student at UT Dallas pursuing quant trading. This repository documents my independent study of MIT's core Math/CS curriculum, with every concept applied directly to my trading systems.
 
 
 
@@ -43,6 +43,8 @@ Completing MIT's core Math/CS curriculum independently — lectures, recitations
 | 6.1200J — Math for CS | 🔄 In Progress | Discrete math foundations |
 
 | 18.100A — Real Analysis | 🔄 In Progress | Model stability proofs |
+
+| 6.867 — Machine Learning | 🔄 In Progress | Machine learning |
 
 
 
