@@ -11,12 +11,13 @@ I'm an incoming first-year math student at UT Dallas pursuing quant trading. Thi
 
 
 ## 🔢 Projects
+- **[ProjectV](https://github.com/vnuthi07/ProjectV-overview)** — First systematic equity strategy. 8.2% CAGR, 0.65 Sharpe over 2005-2025. Deprecated and rebuilt as ProjectR after identifying fundamental architectural flaws.
 
-- **[ProjectV](github.com/varishnuthi/ProjectV-overview)** — ML-based quant trading engine with regime detection, Kelly criterion, and risk management. Backtested 26.4% CAGR, 1.59 Sharpe.
+- **[ProjectR](https://github.com/vnuthi07/ProjectR-overview)** — Institutional-grade rebuild. 8.4% CAGR, 0.86 Sharpe, 0.90 Sortino, -13.6% max drawdown over 2003-2025. Six-state regime classification, XGBoost + LightGBM ensemble, full research validation suite.
 
-- **[ProjectA](github.com/varishnuthi/ProjectA-overview)** — Short-term automated futures daytrading system with strict drawdown constraints.
+- **[ProjectA](https://github.com/vnuthi07/ProjectA-overview)** — Short-term automated futures daytrading system with strict drawdown constraints. *(Coming soon)*
 
-- **[00RISK](github.com/varishnuthi/00Risk-overview)** — Retail quant risk analytics platform democratizing institutional tools for individual investors.
+- **[00RISK](https://github.com/vnuthi07/00RISK-overview)** — Retail quant risk analytics platform democratizing institutional tools for individual investors. *(Coming soon)*
 
 
 
