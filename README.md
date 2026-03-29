@@ -12,11 +12,11 @@ I'm a first-year math student at UT Dallas pursuing quant trading at top firms (
 
 ## 🔢 Projects
 
-- **[ProjectV](github.com/varishnuthi/ProjectV)** — ML-based quant trading engine with regime detection, Kelly criterion, and risk management. Backtested 26.4% CAGR, 1.59 Sharpe.
+- **[ProjectV](github.com/varishnuthi/ProjectV-overview)** — ML-based quant trading engine with regime detection, Kelly criterion, and risk management. Backtested 26.4% CAGR, 1.59 Sharpe.
 
-- **[ProjectA](github.com/varishnuthi/ProjectA)** — Short-term automated futures daytrading system with strict drawdown constraints.
+- **[ProjectA](github.com/varishnuthi/ProjectA-overview)** — Short-term automated futures daytrading system with strict drawdown constraints.
 
-- **[00RISK](github.com/varishnuthi/00RISK)** — Retail quant risk analytics platform democratizing institutional tools for individual investors.
+- **[00RISK](github.com/varishnuthi/00Risk-overview)** — Retail quant risk analytics platform democratizing institutional tools for individual investors.
 
 
 
