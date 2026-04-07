@@ -14,11 +14,10 @@ I'm an incoming first-year math student at UT Dallas pursuing quant trading. Thi
 - **[ProjectV](https://github.com/vnuthi07/ProjectV-overview)** — First systematic equity strategy. 8.2% CAGR, 0.65 Sharpe over 2005-2025. Deprecated and rebuilt as ProjectR after identifying fundamental architectural flaws.
 
 - **[ProjectR](https://github.com/vnuthi07/ProjectR-overview)** — Institutional-grade rebuild. 9.2% CAGR, 0.91 Sharpe, 0.96 Sortino, -13.1% max drawdown over 2003-2025. Six-state regime classification, XGBoost + LightGBM ensemble, full research validation suite.
-[Link Text](https://www.00risk.com/)
 
 - **[ProjectA](https://github.com/vnuthi07/ProjectA-overview)** — Short-term automated futures daytrading system with strict drawdown constraints. *(Coming soon)*
 
-- **[00RISK](https://github.com/vnuthi07/00RISK-overview)** — Retail quant risk analytics platform democratizing institutional tools for individual investors. *(Coming soon)*
+- **[00RISK](https://github.com/vnuthi07/00RISK-overview)** — Retail quant risk analytics platform democratizing institutional tools for individual investors. *(Coming soon)* [Official Waitlist Link](https://www.00risk.com/)
 
 
 
